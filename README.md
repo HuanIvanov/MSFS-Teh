@@ -38,7 +38,6 @@
 <div align="center">
   <img src="RoutD.png" alt="Анимация пилота при донате" width="50">
 </div>
-<br/><br/>
 ☕ **Угостите автора кофе!**
 **Альфа-Банк:**  
 2200 1523 3420 6672 (OLEG SHISHIKIN)
