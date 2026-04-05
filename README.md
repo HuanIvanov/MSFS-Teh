@@ -34,7 +34,7 @@
 <br/>
 
 <div align="center">
-  <img src="RoutD.png" alt="Анимация пилота при донате" width="200">
+  <img src="RoutD.png" alt="Анимация пилота при донате" width="50">
 </div>
 
 <br/><br/>
